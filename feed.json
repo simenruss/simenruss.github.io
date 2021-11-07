@@ -9,5 +9,17 @@
         "name": "Simen Russ"
     },
     "items": [
+        {
+            "id": "https://simenruss.github.io/formalet-for-denne-siden.html",
+            "url": "https://simenruss.github.io/formalet-for-denne-siden.html",
+            "title": "Formålet for denne siden",
+            "author": {
+                "name": "Simen Russ"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-07T01:19:03+01:00",
+            "date_modified": "2021-11-07T01:19:25+01:00"
+        }
     ]
 }

@@ -3,10 +3,22 @@
     <title>simenruss.blog</title>
     <link href="https://simenruss.github.io/feed.xml" rel="self" />
     <link href="https://simenruss.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2021-11-07T01:19:25+01:00</updated>
     <author>
         <name>Simen Russ</name>
     </author>
     <id>https://simenruss.github.io</id>
 
+    <entry>
+        <title>Formålet for denne siden</title>
+        <author>
+            <name>Simen Russ</name>
+        </author>
+        <link href="https://simenruss.github.io/formalet-for-denne-siden.html"/>
+        <id>https://simenruss.github.io/formalet-for-denne-siden.html</id>
+
+        <updated>2021-11-07T01:19:25+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
