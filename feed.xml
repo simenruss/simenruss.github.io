@@ -1,24 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>simenruss.blog</title>
+    <title>Dokumentasjon</title>
     <link href="https://simenruss.github.io/feed.xml" rel="self" />
     <link href="https://simenruss.github.io" />
-    <updated>2021-11-07T01:19:25+01:00</updated>
+    <updated>2021-11-07T01:21:48+01:00</updated>
     <author>
         <name>Simen Russ</name>
     </author>
     <id>https://simenruss.github.io</id>
 
     <entry>
-        <title>Formålet for denne siden</title>
+        <title>Dette er bare en test</title>
         <author>
             <name>Simen Russ</name>
         </author>
-        <link href="https://simenruss.github.io/formalet-for-denne-siden.html"/>
-        <id>https://simenruss.github.io/formalet-for-denne-siden.html</id>
+        <link href="https://simenruss.github.io/dette-er-bare-en-test.html"/>
+        <id>https://simenruss.github.io/dette-er-bare-en-test.html</id>
 
-        <updated>2021-11-07T01:19:25+01:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-11-07T01:21:48+01:00</updated>
+            <summary>
+                <![CDATA[
+                     Dette er bare en test for å se om jeg får det på nettsiden min 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="dette-er-bare-en-test-for--se-om-jeg-fr-det-p-nettsiden-min">
+      Dette er bare en test for å se om jeg får det på nettsiden min
+    </h2>
+            ]]>
+        </content>
     </entry>
 </feed>

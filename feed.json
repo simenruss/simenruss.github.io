@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "simenruss.blog",
+    "title": "Dokumentasjon",
     "description": "",
     "home_page_url": "https://simenruss.github.io",
     "feed_url": "https://simenruss.github.io/feed.json",
@@ -10,16 +10,18 @@
     },
     "items": [
         {
-            "id": "https://simenruss.github.io/formalet-for-denne-siden.html",
-            "url": "https://simenruss.github.io/formalet-for-denne-siden.html",
-            "title": "Formålet for denne siden",
+            "id": "https://simenruss.github.io/dette-er-bare-en-test.html",
+            "url": "https://simenruss.github.io/dette-er-bare-en-test.html",
+            "title": "Dette er bare en test",
+            "summary": " Dette er bare en test for å se om jeg får det på nettsiden min ",
+            "content_html": "\n    <h2 id=\"dette-er-bare-en-test-for--se-om-jeg-fr-det-p-nettsiden-min\">\n      Dette er bare en test for å se om jeg får det på nettsiden min\n    </h2>",
             "author": {
                 "name": "Simen Russ"
             },
             "tags": [
             ],
-            "date_published": "2021-11-07T01:19:03+01:00",
-            "date_modified": "2021-11-07T01:19:25+01:00"
+            "date_published": "2021-11-07T01:21:48+01:00",
+            "date_modified": "2021-11-07T01:21:48+01:00"
         }
     ]
 }
