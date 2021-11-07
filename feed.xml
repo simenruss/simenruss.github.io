@@ -3,32 +3,41 @@
     <title>Dokumentasjon</title>
     <link href="https://simenruss.github.io/feed.xml" rel="self" />
     <link href="https://simenruss.github.io" />
-    <updated>2021-11-07T01:21:48+01:00</updated>
+    <updated>2021-11-07T01:37:47+01:00</updated>
     <author>
         <name>Simen Russ</name>
     </author>
     <id>https://simenruss.github.io</id>
 
     <entry>
-        <title>Dette er bare en test</title>
+        <title>Ting som er viktig å kunne for å mestre SEO</title>
         <author>
             <name>Simen Russ</name>
         </author>
-        <link href="https://simenruss.github.io/dette-er-bare-en-test.html"/>
-        <id>https://simenruss.github.io/dette-er-bare-en-test.html</id>
+        <link href="https://simenruss.github.io/ting-som-er-viktig-a-kunne-for-a-mestre-seo.html"/>
+        <id>https://simenruss.github.io/ting-som-er-viktig-a-kunne-for-a-mestre-seo.html</id>
 
-        <updated>2021-11-07T01:21:48+01:00</updated>
+        <updated>2021-11-07T01:37:47+01:00</updated>
             <summary>
                 <![CDATA[
-                     Dette er bare en test for å se om jeg får det på nettsiden min 
+                    Det er mange verktøy det er viktig å kunne mestre for å kunne kalle seg en allsidig SEO. Under følger en liste over de viktigste verktøyne: Google: Google Analytics Google Search Console Google Trends SEO Checker Tool Google SERP Preview Tool Page Speed Insights Lighthouse&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                
-    <h2 id="dette-er-bare-en-test-for--se-om-jeg-fr-det-p-nettsiden-min">
-      Dette er bare en test for å se om jeg får det på nettsiden min
-    </h2>
+                <p>Det er mange verktøy det er viktig å kunne mestre for å kunne kalle seg en allsidig SEO.</p>
+<p>Under følger en liste over de viktigste verktøyne:</p>
+<h2>Google:</h2>
+<ul>
+<li>Google Analytics</li>
+<li>Google Search Console</li>
+<li>Google Trends SEO Checker Tool</li>
+<li>Google SERP Preview Tool</li>
+<li>Page Speed Insights </li>
+<li>Lighthouse</li>
+<li>Google Adwords Keyword Tool</li>
+<li> </li>
+</ul>
             ]]>
         </content>
     </entry>

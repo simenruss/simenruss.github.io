@@ -10,18 +10,18 @@
     },
     "items": [
         {
-            "id": "https://simenruss.github.io/dette-er-bare-en-test.html",
-            "url": "https://simenruss.github.io/dette-er-bare-en-test.html",
-            "title": "Dette er bare en test",
-            "summary": " Dette er bare en test for å se om jeg får det på nettsiden min ",
-            "content_html": "\n    <h2 id=\"dette-er-bare-en-test-for--se-om-jeg-fr-det-p-nettsiden-min\">\n      Dette er bare en test for å se om jeg får det på nettsiden min\n    </h2>",
+            "id": "https://simenruss.github.io/ting-som-er-viktig-a-kunne-for-a-mestre-seo.html",
+            "url": "https://simenruss.github.io/ting-som-er-viktig-a-kunne-for-a-mestre-seo.html",
+            "title": "Ting som er viktig å kunne for å mestre SEO",
+            "summary": "Det er mange verktøy det er viktig å kunne mestre for å kunne kalle seg en allsidig SEO. Under følger en liste over de viktigste verktøyne: Google: Google Analytics Google Search Console Google Trends SEO Checker Tool Google SERP Preview Tool Page Speed Insights Lighthouse&hellip;",
+            "content_html": "<p>Det er mange verktøy det er viktig å kunne mestre for å kunne kalle seg en allsidig SEO.</p>\n<p>Under følger en liste over de viktigste verktøyne:</p>\n<h2>Google:</h2>\n<ul>\n<li>Google Analytics</li>\n<li>Google Search Console</li>\n<li>Google Trends SEO Checker Tool</li>\n<li>Google SERP Preview Tool</li>\n<li>Page Speed Insights </li>\n<li>Lighthouse</li>\n<li>Google Adwords Keyword Tool</li>\n<li> </li>\n</ul>",
             "author": {
                 "name": "Simen Russ"
             },
             "tags": [
             ],
-            "date_published": "2021-11-07T01:21:48+01:00",
-            "date_modified": "2021-11-07T01:21:48+01:00"
+            "date_published": "2021-11-07T01:37:47+01:00",
+            "date_modified": "2021-11-07T01:37:47+01:00"
         }
     ]
 }
