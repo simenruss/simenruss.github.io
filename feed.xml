@@ -3,12 +3,41 @@
     <title>Dokumentasjon</title>
     <link href="https://simenruss.github.io/feed.xml" rel="self" />
     <link href="https://simenruss.github.io" />
-    <updated>2021-11-07T01:37:47+01:00</updated>
+    <updated>2021-11-20T09:08:59+01:00</updated>
     <author>
         <name>Simen Russ</name>
     </author>
     <id>https://simenruss.github.io</id>
 
+    <entry>
+        <title>Hello</title>
+        <author>
+            <name>Simen Russ</name>
+        </author>
+        <link href="https://simenruss.github.io/hello.html"/>
+        <id>https://simenruss.github.io/hello.html</id>
+
+        <updated>2021-11-20T09:08:59+01:00</updated>
+            <summary>
+                <![CDATA[
+                    adjaksdads asdasd ada Hello This is my Blog&nbsp; 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <pre class="line-numbers  language-html"><code>adjaksdads
+asdasd
+ada
+
+
+</code></pre>
+
+  <p>
+    Hello This is my Blog&nbsp;
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ting som er viktig å kunne for å mestre SEO</title>
         <author>
